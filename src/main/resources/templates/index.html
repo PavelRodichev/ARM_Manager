@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Кредитный менеджер</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h1 class="mb-4">АРМ Кредитного Менеджера</h1>
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-3 mb-3">
+                            <a href="/credit-manager/application/new" class="btn btn-primary btn-lg w-100">
+                                Новая заявка
+                            </a>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                            <a href="/credit-manager/clients" class="btn btn-info btn-lg w-100">
+                                Все клиенты
+                            </a>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                            <a href="/credit-manager/applications" class="btn btn-warning btn-lg w-100">
+                                Все заявки
+                            </a>
+                        </div>
+                        <div class="col-md-3 mb-3">
+                            <a href="/credit-manager/contracts" class="btn btn-success btn-lg w-100">
+                                Все договоры
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-md-6 mb-3">
+                            <a href="/credit-manager/applications/approved" class="btn btn-outline-warning w-100">
+                                Одобренные заявки
+                            </a>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <a href="/credit-manager/contracts/signed" class="btn btn-outline-success w-100">
+                                Подписанные договоры
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
