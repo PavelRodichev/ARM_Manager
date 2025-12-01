@@ -127,3 +127,10 @@ GitHub: PavelRodichev
 MIT License
 
 ✨ Приложение готово к использованию! Начните с главной страницы: http://localhost:8080/credit-manager
+<img width="1599" height="799" alt="image" src="https://github.com/user-attachments/assets/786d4d6d-7079-4d85-910f-3dbb97fada19" />
+
+<img width="1556" height="362" alt="image" src="https://github.com/user-attachments/assets/5a5c8a28-15ad-482c-bd89-64125ef79b2f" />
+
+<img width="1629" height="454" alt="image" src="https://github.com/user-attachments/assets/0b2d2d0a-d3b8-44d7-a7dc-9b61b2d299ff" />
+
+<img width="1523" height="543" alt="image" src="https://github.com/user-attachments/assets/db5e9ed8-c23b-4154-9e33-a20bf702183f" />
